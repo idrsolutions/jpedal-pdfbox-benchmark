@@ -1,0 +1,8 @@
+target/
+corpus/
+corpus-download/
+results/
+tools/
+*.iml
+.idea/
+.DS_Store
